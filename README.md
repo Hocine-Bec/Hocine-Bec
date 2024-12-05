@@ -1,22 +1,22 @@
 <h1>Hi, I'm Hocine!</h1>
 <h2>Software Developer</h2>
 
-<h4>👨‍💻 Software Development Projects:<h4>
+<h4>👨‍💻 Software Development Projects: (Currently Setting up Other Projects)<h4>
 
 - Console Application Projects:
-  - [Bank Console App (C++)](https://github.com/your-github-username/bank-console-app)
-  - [Rock Paper Scissor Console App (C++)](https://github.com/your-github-username/rock-paper-scissor)
-  - [ATM Console App (C++)](https://github.com/your-github-username/dairy-console-app)
-  - [Dairy Console App (C#)](https://github.com/your-github-username/dairy-console-app)
+  - [Dairy Console App (C#)](https://github.com/Hocine-Bec/Dairy-Console-App.git)
+  - Bank Console App (C++) -- (Coming Soon)
+  - Rock Paper Scissor Console App -- (Coming Soon)
+  - ATM Console App (C++) -- (Coming Soon)
 
 - Windows Forms Projects:
-  - [Driving and Vehicle License Department (DVLD)](https://github.com/your-github-username/dvld-project)
+  - Driving and Vehicle License Department (DVLD) -- (Coming Soon)
 
 <h4> 📃 Certifications <h4>
   
   - Programming Advices Academy:
     
-      - [Certification Of Completion Courses (01 - 18)](https://github.com/your-github-username/bank-console-app)
+      - [Certification Of Completion Courses (01 - 18)](https://drive.google.com/drive/folders/1tCA23Bnw2qTY_DLOkfkwsbprd_dRO2MW?usp=sharing)
 
   
 
@@ -30,7 +30,6 @@
 [linkedin]: https://www.linkedin.com/in/hocine-bechebil
 [whatsapp]: https://wa.me/+213770993463
 [email]: mailto:Bechebil.Houcin@gmail.com
-## Hi there 👋
 
 <!--
 **Hocine-Bec/Hocine-Bec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
