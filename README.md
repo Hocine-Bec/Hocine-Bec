@@ -9,7 +9,7 @@
   - [ATM Console App (C++)](https://github.com/Hocine-Bec/ATM-Console-App.git)
 
 - Windows Forms Projects:
-  - Driving and Vehicle License Department (DVLD) -- (Coming Soon)
+  - Driving and Vehicle License Department (DVLD) -- (In-Progress)
 
 <h4> 📃 Certifications <h4>
   
