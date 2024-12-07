@@ -5,9 +5,8 @@
 
 - Console Application Projects:
   - [Dairy Console App (C#)](https://github.com/Hocine-Bec/Dairy-Console-App.git)
-  - Bank Console App (C++) -- (Coming Soon)
-  - Rock Paper Scissor Console App -- (Coming Soon)
-  - ATM Console App (C++) -- (Coming Soon)
+  - [Bank Console App (C++)](https://github.com/Hocine-Bec/Bank-Console-App)
+  - [ATM Console App (C++)](https://github.com/Hocine-Bec/ATM-Console-App.git)
 
 - Windows Forms Projects:
   - Driving and Vehicle License Department (DVLD) -- (Coming Soon)
