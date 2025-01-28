@@ -1,46 +1,81 @@
-<h1>Hi, I'm Hocine!</h1>
-<h2>Software Developer</h2>
+# Hi, I'm Hocine Bechebil 👋
 
-<h4>👨‍💻 Software Development Projects: (Currently Setting up Other Projects)<h4>
+**Software Developer | Passionate about Building Scalable and Efficient Solutions**
 
-- Console Application Projects:
-  - [Dairy Console App (C#)](https://github.com/Hocine-Bec/Dairy-Console-App.git)
-  - [Bank Console App (C++)](https://github.com/Hocine-Bec/Bank-Console-App)
-  - [ATM Console App (C++)](https://github.com/Hocine-Bec/ATM-Console-App.git)
+---
 
-- Windows Forms Projects:
-  - [Driving and Vehicle License Department (DVLD)](https://github.com/Hocine-Bec/DVLD-Project.git)
+## 🚀 About Me
 
-<h4> 📃 Certifications <h4>
-  
-  - Programming Advices Academy:
-    
-      - [Certification Of Completion Courses (01 - 18)](https://drive.google.com/drive/folders/1tCA23Bnw2qTY_DLOkfkwsbprd_dRO2MW?usp=sharing)
+I'm a dedicated software developer with a strong foundation in `C#` and `C++`. I enjoy solving complex problems and building applications that make a difference. My journey in software development is driven by a passion for learning and a commitment to delivering high-quality solutions.
 
-  
+---
 
-<hr>
+## 🛠️ Skills
 
-🤳 Connect with me:
-[<img align="left" alt="Hocine Bechebil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hocine Bechebil | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Hocine Bechebil | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+### Programming Languages:
+- **C#** (Proficient)
+- **C++** (Intermediate)
+
+### Tools & Technologies:
+- **Git & GitHub**
+- **Visual Studio**
+- **Object-Oriented Programming (OOP)**
+
+---
+
+## 💻 Projects
+
+### Console Applications:
+- **[Dairy Console App (C#)](https://github.com/Hocine-Bec/Dairy-Console-App.git)**  
+  A console-based application for managing dairy products.
+- **[Bank Console App (C++)](https://github.com/Hocine-Bec/Bank-Console-App)**  
+  A simulation of a banking system with account management features.
+- **[ATM Console App (C++)](https://github.com/Hocine-Bec/ATM-Console-App.git)**  
+  An ATM simulation with basic transaction functionalities.
+
+### Windows Forms Applications:
+- **[Driving and Vehicle License Department (DVLD)](https://github.com/Hocine-Bec/DVLD-Project.git)**  
+  A desktop application for managing driving licenses and vehicle registrations.
+
+---
+
+## 📜 Certifications
+
+- **Programming Advices Academy**  
+  [Certification of Completion](https://drive.google.com/drive/folders/1tCA23Bnw2qTY_DLOkfkwsbprd_dRO2MW?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hocine-bec&theme=react-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hocine-bec&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+Let's connect and collaborate! Feel free to reach out for opportunities, discussions, or just to say hello.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp]  
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)][email]  
 
 [linkedin]: https://www.linkedin.com/in/hocine-bechebil
 [whatsapp]: https://wa.me/+213770993463
 [email]: mailto:Bechebil.Houcin@gmail.com
 
-<!--
-**Hocine-Bec/Hocine-Bec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔍 What's Next?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always looking to expand my knowledge and take on new challenges. Currently, I'm exploring:
+- **Advanced C# and .NET Development**
+- **Web Development**
+
+---
+
+## 📌 Special Note
+
+This repository is a reflection of my journey as a software developer. It contains my projects, certifications, and contributions. Feel free to explore and reach out if you'd like to collaborate or discuss anything!
