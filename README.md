@@ -16,10 +16,10 @@ I'm a software developer passionate about creating scalable, efficient, and user
 - **SQL** (Database Queries)
 
 ### Backend Development
-- **Frameworks**: .NET Core, .NET Framework, ASP.NET (learning)
+- **Frameworks**: .NET Core, .NET Framework, ASP.NET Core
 - **ORM & Data**: Entity Framework Core, ADO.NET, LINQ
 - **Databases**: SQL Server, PostgreSQL
-- **Architecture**: CQRS, 3-Tier Architecture
+- **Architecture**: 3-Tier Architecture, Clean Architecture
 - **Testing**: xUnit, Moq
 
 ### Tools
@@ -35,6 +35,20 @@ I'm a software developer passionate about creating scalable, efficient, and user
 ---
 
 ## 💻 Projects
+
+### Backend RESTful
+
+**[University Management System](https://github.com/Hocine-Bec/University-Management-System)**
+
+- A Clean Architecture-based platform built with ASP.NET Core and Entity Framework Core to automate university operations. Manages students, courses, instructors, and scheduling via a RESTful API with Swagger docs. Uses PostgreSQL and follows SOLID principles for scalability.
+
+- Key Features:
+    - Student & faculty management
+    - Course & class scheduling
+    - Modular, testable design
+
+- *Technologies*: ASP.NET Core, RESTful APIs, PostgreSQL, Git, EF Core  
+- Future Plans: JWT auth, reporting, frontend integration.
 
 ### Collaborations
 - **[E-Commerce POS System](link-if-available)**  
@@ -77,9 +91,23 @@ I'm a software developer passionate about creating scalable, efficient, and user
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocine-bec&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hocine-bec&layout=compact&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hocine-bec&theme=react-dark)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bec&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hocine-Bec&theme=dark)
 
 ---
 
