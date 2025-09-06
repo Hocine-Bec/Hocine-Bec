@@ -1,7 +1,7 @@
 # ***Hi there! I'm Hocine Bechebil*** 👋 
 *A self-taught software engineer who likes to put his hands on his keyboard A LOT* 😁  
 
-[![Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,postgres,postman,rider,figma&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,postgres,python,html,css,js,tailwindcss,react,postman,rider,linux,figma&theme=dark&perline=16)](https://skillicons.dev)
 
 ![My GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
@@ -21,9 +21,8 @@
   />
 </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bec&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Hocine-Bec&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bec&layout=compact&theme=holi&langs_count=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hocine-Bec&theme=github-dark-blue)
 
 ## 🌐 Connect with Me
 <div align="center">
