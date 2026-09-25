@@ -1,7 +1,12 @@
 # ***Hi there! I'm Hocine Bechebil*** 👋 
 *A self-taught software engineer who likes to put his hands on his keyboard A LOT* 😁  
 
-[![Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,postgres,python,html,css,js,tailwindcss,react,postman,rider,linux,figma&theme=dark&perline=16)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cpp,react,dotnet,docker,git,postgres,prometheus,grafana,html,css,js,ts,ubuntu&theme=dark" />
+  </a>
+</p>
 
 ![My GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
