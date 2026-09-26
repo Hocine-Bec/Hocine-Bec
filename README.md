@@ -26,8 +26,10 @@
   />
 </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hocine-Bec&layout=compact&theme=holi&langs_count=10)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Hocine-Bec&layout=compact&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=dark_github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hocine-Bec&theme=github-dark-blue)
+
+
 
 ## 🌐 Connect with Me
 <div align="center">
